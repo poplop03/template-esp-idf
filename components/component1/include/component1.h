@@ -1,0 +1,1 @@
+void component1_func(void);
